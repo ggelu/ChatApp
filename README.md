@@ -1,0 +1,1 @@
+Chat app with Websocket connection, using STOMP. React frontend was built using Vite, and implements sockjs for the connection to the Java backend. App supports public and private messages and notifications.
